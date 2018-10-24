@@ -1,0 +1,6 @@
+Every time you want to save a snapshot of the changes you have made** you can do the following as often as you like.
+From the app directory (the folder on your laptop:
+git add .
+git commit -m “This is the nth commit”
+git push -u origin master
+** DO THIS OFTEN!!!!! REALLY REALLY REALLY OFTEN.
